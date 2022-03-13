@@ -41,6 +41,9 @@ Change background image <br />
 - Go to Terminal > Preferences > Profiles > Advanced: <br />
 Uncheck `Allow VT100 application keypad mode` to use numeric pad on extended keyboard.
 
+## Optional
+Put `SPACESHIP_PACKAGE_SHOW=false` at the end of `.zshrc` file.
+
 ## Result
 Your terminal should be like that:
 
